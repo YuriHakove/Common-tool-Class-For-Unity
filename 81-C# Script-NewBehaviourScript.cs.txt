@@ -1,0 +1,35 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+#region << 版 本 注 释 >>
+/*----------------------------------------------------------------
+// Copyright (C) 2017 ZJMF
+//
+// 文件名：$safeitemname$
+// CLR:$clrversion$
+// 文件功能描述：
+//
+// 
+// 创建者：愈来喻好
+// 邮箱：375275672@qq.com
+// 时间：$time$
+//
+// 修改人：
+// 时间：
+// 修改说明：
+//
+// 版本：v1.0.0
+//----------------------------------------------------------------*/
+#endregion
+public class #SCRIPTNAME# : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		#NOTRIM#
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		#NOTRIM#
+	}
+}
